@@ -5,3 +5,6 @@ http://pragmatictrials.ca/bedmed/
 http://pragmatictrials.ca/pdsa/
 http://pragmatictrials.ca/join/
 http://pragmatictrials.ca/new/
+http://pragmatictrials.ca/bedmed-frail/
+http://pragmatictrials.ca/optimizebp/
+http://pragmatictrials.ca/minmed/
