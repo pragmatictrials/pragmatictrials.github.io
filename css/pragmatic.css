@@ -166,7 +166,7 @@ nav > ul > li + li.section-label {
 
 nav > ul > li > a {
     display: block;
-    padding: 7px 15px;
+    padding: 7px;
     position: relative;
     border-radius: 4px;
     font-weight: 400;
